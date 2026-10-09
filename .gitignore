@@ -4,3 +4,6 @@ venv/
 .env/
 __pycache__/
 *.pyc
+
+# Large model artifacts
+bert\ final\ model/
